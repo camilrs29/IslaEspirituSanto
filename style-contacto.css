@@ -164,13 +164,15 @@ body{
 	font-size: 20px;
 	margin-left: 22%;
 	text-align: right;
+
 }
 .estilo-1{
 	position: absolute;
 	margin-top: 4.5%;
 	color: white;
-	margin-right: 1%;
+	margin-right: 800%;
 	margin-left: -23%;
+	width: 30px;
 }
 .estilo-1-2{
 	position: absolute;
@@ -181,6 +183,7 @@ body{
 	margin-left: -5%;
 }
 .header-2{
+	display: inline-block;
 	color: black;
 	font-size: 20px;
 	margin-right: 2%;
@@ -188,12 +191,12 @@ body{
 	text-align: left;
 }
 .estilo-2{
-	color: black;
-	display:flex;
-	padding-top: 15px;
-	width: 30px;
-	margin-top: -10px;
+	display: inline-block;
+	margin: auto;
 	padding-left: 600px;
+	color: black;
+	padding-top: 15px;
+	margin-top: -10px;
 }
 .face{
 	position: absolute;
@@ -207,6 +210,8 @@ body{
 }
 
 .logo{
+	display: inline-block;
+	margin-right: 100%;
 	position: absolute;
 	top: 5px;
 	left: 5%;
