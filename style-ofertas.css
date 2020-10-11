@@ -174,7 +174,7 @@ body{
 	position: absolute;
 	margin-top: 4.5%;
 	left: 40%;
-	color: white;
+	color: black;
 	margin-right: 1%;
 	margin-left: -5%;
 }
@@ -190,7 +190,7 @@ body{
 	display: inline-block;
 	margin: auto;
 	padding-left: 600px;
-	color: black;
+	color: white;
 	padding-top: 15px;
 	margin-top: -10px;
 }
