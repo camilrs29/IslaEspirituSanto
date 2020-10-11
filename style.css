@@ -373,6 +373,7 @@ ul.slider li:target {
  .footer{
  	width: 100%;
  	bottom: 0;
+ 	position: fixed;
  	color: white;
  	text-align: center;
  	height: 40px;
