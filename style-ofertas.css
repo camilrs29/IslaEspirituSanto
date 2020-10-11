@@ -118,6 +118,8 @@ body{
 	border-radius: 5px;
  }
 .footer{
+ 	width: 100%;
+ 	bottom: 0;
  	color: white;
  	text-align: center;
  	height: 40px;
