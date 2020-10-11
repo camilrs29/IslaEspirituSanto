@@ -358,7 +358,6 @@ ul.slider li:target {
 	font-family: "Arial";
  }
  .vivencias{
- 	text-align: center;
  	width: 100%;
  	display: block;
  }
@@ -386,6 +385,10 @@ ul.slider li:target {
  	font-family: "Calibri";
  	font-weight: bold;
 	background-color: #1c89ff80;
+ }
+ #tam{
+ 	margin-left: 18%;
+ 	width: 650px;
  }
  }
 

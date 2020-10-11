@@ -228,7 +228,6 @@ body{
 }
 .a{
  	width: 80%;
- 	padding-top: 1%;
  	margin-left: 10%;
  	margin-right: 5%;
  	background-color: #DDF3FF;
@@ -238,6 +237,9 @@ body{
  	border-width: 1px;
  	height: 400px;
  	margin-bottom: 5%;
+ }
+ #alto{
+ 	height: 800px;
  }
  .b{
  	margin-left: 10%;
