@@ -68,6 +68,9 @@ body{
 	top: 0px;
 	right: 45%;
 }
+.img{
+	width: 200px;
+}
 .contenedor{
 	margin-top: 10px;
 	padding-top: 10px;
@@ -127,4 +130,243 @@ body{
  	font-family: "Calibri";
  	font-weight: bold;
 	background-color: #1c89ff80;
+ }
+ @media only screen and (max-width : 1000px){
+
+a{
+	text-decoration: none;
+}
+body{
+	margin: 0;
+	padding: 0;
+	background-color: white;
+}
+.opciones{
+	margin-bottom: 50px;
+	display: inline-block;
+	height: 100px;
+	background-color: #1c89ff80;
+}
+.titulo{
+	right: 15%;
+	width: 100%;
+	background-color: red;
+	margin-bottom: -55px;
+}
+.header-1{
+	width: 100%;
+	color: black;
+	margin-top: 3%;
+	font-size: 20px;
+	margin-left: 22%;
+	text-align: right;
+
+}
+.estilo-1{
+	position: absolute;
+	margin-top: 4.5%;
+	color: white;
+	margin-right: 800%;
+	margin-left: -23%;
+	width: 30px;
+}
+.estilo-1-2{
+	position: absolute;
+	margin-top: 4.5%;
+	left: 40%;
+	color: white;
+	margin-right: 1%;
+	margin-left: -5%;
+}
+.header-2{
+	display: inline-block;
+	color: black;
+	font-size: 20px;
+	margin-right: 2%;
+	margin-top: 5px;
+	text-align: left;
+}
+.estilo-2{
+	display: inline-block;
+	margin: auto;
+	padding-left: 600px;
+	color: black;
+	padding-top: 15px;
+	margin-top: -10px;
+}
+.face{
+	position: absolute;
+	top: 2%;
+	right: 10%;
+}
+.insta{
+	position: absolute;
+	top: 2%;
+	right: 5%;
+}
+
+.logo{
+	display: inline-block;
+	margin-right: 100%;
+	position: absolute;
+	top: 5px;
+	left: 5%;
+}
+.img{
+	width: 800px;
+	display: block;
+	margin-left: 10%;
+	margin-bottom: 150px;
+}
+.contenedor{
+
+	margin-top: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	width: 100%;
+	height: 1500px;
+}
+.caja{
+	background-color: white;
+	width: 100%;
+	left: 0;
+	position: absolute;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-top: -10px;
+	width: 100%;
+	height: 500px;
+	border-radius: 15px;
+}
+.a{
+	width: 100%;
+	text-align: center;
+}
+.b{
+	width: 100%;
+	text-align: center;
+	
+}
+.c{
+	text-align: center;
+}
+.d{
+	width: 100%;
+	text-align: center;
+	
+}
+ #btn-1{
+ 	position: absolute;
+ 	top:820px;
+ 	left: 23%;
+ 	padding: 35px 150px;
+	margin-right: 50px;
+	margin-left: 50px;
+	margin-top: 10px;
+	color: #2390CE;
+	border-style: solid;
+	border-width: 1px;
+	background-color: white;
+	font-weight: bold;
+	font-family: "Arial";
+	font-size: 35px;
+	border-radius: 5px;
+ }
+ #btn-2{
+ 	position: absolute;
+ 	top:1770px;
+ 	left: 23%;
+ 	padding: 35px 150px;
+	margin-right: 50px;
+	margin-left: 50px;
+	margin-top: 10px;
+	color: #2390CE;
+	border-style: solid;
+	border-width: 1px;
+	background-color: white;
+	font-weight: bold;
+	font-family: "Arial";
+	font-size: 35px;
+	border-radius: 5px;
+ }
+ #btn-3{
+ 	position: absolute;
+ 	top:2720px;
+ 	left: 23%;
+ 	padding: 35px 150px;
+	margin-right: 50px;
+	margin-left: 50px;
+	margin-top: 10px;
+	color: #2390CE;
+	border-style: solid;
+	border-width: 1px;
+	background-color: white;
+	font-weight: bold;
+	font-family: "Arial";
+	font-size: 35px;
+	border-radius: 5px;
+ }
+ #btn-4{
+ 	position: absolute;
+ 	top:3670px;
+ 	left: 23%;
+ 	padding: 35px 150px;
+	margin-right: 50px;
+	margin-left: 50px;
+	margin-top: 10px;
+	color: #2390CE;
+	border-style: solid;
+	border-width: 1px;
+	background-color: white;
+	font-weight: bold;
+	font-family: "Arial";
+	font-size: 35px;
+	border-radius: 5px;
+ }
+ #btn-5{
+ 	position: absolute;
+ 	top:4620px;
+ 	left: 23%;
+ 	padding: 35px 150px;
+	margin-right: 50px;
+	margin-left: 50px;
+	margin-top: 10px;
+	color: #2390CE;
+	border-style: solid;
+	border-width: 1px;
+	background-color: white;
+	font-weight: bold;
+	font-family: "Arial";
+	font-size: 35px;
+	border-radius: 5px;
+ }
+ #btn-6{
+ 	position: absolute;
+ 	top:5570px;
+ 	left: 23%;
+ 	padding: 35px 150px;
+	margin-right: 50px;
+	margin-left: 50px;
+	margin-top: 10px;
+	color: #2390CE;
+	border-style: solid;
+	border-width: 1px;
+	background-color: white;
+	font-weight: bold;
+	font-family: "Arial";
+	font-size: 35px;
+	border-radius: 5px;
+ }
+.footer{
+ 	width: 100%;
+ 	bottom: 0;
+ 	position: fixed;
+ 	color: white;
+ 	text-align: center;
+ 	height: 40px;
+ 	padding-top: 15px;
+ 	font-family: "Calibri";
+ 	font-weight: bold;
+	background-color: #1c89ff80;
+ }
  }
