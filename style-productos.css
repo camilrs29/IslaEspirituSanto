@@ -1,0 +1,355 @@
+/*PARA COMPUTADORAS*/
+a{
+	text-decoration: none;
+}
+
+body{
+	margin: 0;
+	padding: 0;
+	background-color: white;
+}
+.estilo-4{
+	position: absolute;
+	top:8px;
+	color: black;
+	right: 70px;
+	width: 30px;
+	left: 940px;
+}
+.estilo-4:hover{
+	color: blue;
+}
+.carro{
+	position: absolute;
+	top: 5px;
+	left: 1195px;
+}
+#cr{
+	width: 60px;
+}
+.opciones{
+	margin-bottom: 50px;
+	display: inline-flex;
+	height: 40px;
+	background-color: #1c89ff80;
+}
+.titulo{
+	width: 100%;
+	margin-bottom: -55px;
+}
+.header-1{
+	color: black;
+	margin-top: 5px;
+	font-size: 20px;
+	margin-left: 2%;
+	text-align: left;
+}
+.estilo-1{
+	position: absolute;
+	margin-top: 1px;
+	color: white;
+	margin-right: 50px;
+}
+.estilo-1:hover{
+	color: blue;
+}
+.estilo-1-2:hover{
+	color: blue;
+}
+.estilo-2:hover{
+	color: blue;
+}
+.estilo-1-2{
+	position: absolute;
+	margin-top: 1px;
+	left: 40%;
+	color: white;
+	margin-right: 50px;
+}
+.header-2{
+	color: white;
+	font-size: 20px;
+	margin-right: 2%;
+	margin-top: 5px;
+	text-align: left;
+}
+.estilo-2{
+	color: white;
+	display:flex;
+	padding-top: 15px;
+	width: 30px;
+	margin-top: -13px;
+	padding-left: 150px;
+}
+.face{
+	position: absolute;
+	top: 5px;
+	right: 10%;
+}
+.insta{
+	position: absolute;
+	top: 5px;
+	right: 6%;
+}
+#fm{
+	width: 30px;
+}
+#im{
+	width: 30px;
+}
+.logo{
+	position: absolute;
+	top: 0px;
+	right: 45%;
+}
+.contenedor{
+	font-family: "Calibri";
+	font-weight: bold;
+	font-size: 18px;
+	text-align: center;
+	margin-top: 1%;
+	display: inline-flex;
+	width: 100%;
+	height: 100%;
+}
+.a{
+ 	width: 40%;
+ 	padding-top: 5%;
+ 	margin-left: 5%;
+ 	margin-right: 5%;
+ 	background-color: #bce7ff80;
+ 	border-radius: 15px;
+ }
+ .b{
+ 	width: 50%;
+ 	margin-right: 10px;
+ }
+  .datos{
+ 	font-family: "Calibri";
+ 	padding-top: 20px;
+ 	text-align: center;
+ 	font-weight: bold;
+ 	border-width: 1px;
+ 	border-style: solid;
+ 	border-color: #8DC4FF80;
+ }
+ .nombre{
+	width: 80%;
+ }
+ .email{
+ 	width: 80%;
+ }
+ .mensaje{
+ 	width: 80%;
+ 	height: 80px;
+ }
+ .btn{
+ 	padding: 5px 20px;
+	display: inline-flex;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	color: white;
+	background-color: #51a5ff;
+	font-weight: bold;
+	font-family: "Arial";
+	border-radius: 5px;
+ }
+ .btn:hover{
+ 	border-color:  #11cfff;
+ 	color: white;
+ 	background-color: #11cfff;
+ }
+ .boton{
+ 	width: 100%;
+ 	text-align: center;
+ }
+ .footer{
+ 	width: 100%;
+ 	bottom: 0;
+ 	color: white;
+ 	text-align: center;
+ 	height: 40px;
+ 	padding-top: 15px;
+ 	font-family: "Calibri";
+ 	font-weight: bold;
+	background-color: #1c89ff80;
+ }
+ #titulo{
+	text-align: left;
+	margin-right: 100px;
+ 	width: 200px;
+ }
+ .tenemos{
+ 	position: absolute;
+ 	right: 36%;
+ 	top: 100px;
+ 	font-family: "Calibri";
+ 	font-weight: bold;
+ 	font-size: 20px;
+ }
+ .lente{
+ 	width: 97%;
+ 	margin-top: 50px;
+ 	border-radius: 10px;
+ 	border-style: solid;
+ 	border-color: #8DC4FF;
+ 	border-width: 1px;
+ 	background: #d6ecff80;
+ 	margin-bottom: 20px;
+ }
+ .sombrero{
+ 	width: 97%;
+ 	border-radius: 10px;
+ 	border-style: solid;
+ 	border-color: #8DC4FF;
+ 	border-width: 1px;
+ 	background: #b3d5f980;
+ 	margin-bottom: 20px;
+ }
+ .taza{
+ 	width: 97%;
+ 	border-radius: 10px;
+ 	border-style: solid;
+ 	border-color: #8DC4FF;
+ 	border-width: 1px;
+ 	background: #d6ecff80;
+ 	margin-bottom: 20px;
+ }
+ .playera{
+ 	width: 97%;
+ 	border-radius: 10px;
+ 	border-style: solid;
+ 	border-color: #8DC4FF;
+ 	border-width: 1px;
+ 	background: #b3d5f980;
+ 	margin-bottom: 20px;
+ }
+ .txt-1{
+ 	position: absolute;
+ 	top: 180px;
+ 	left: 200px;
+ 	font-family: "Calibri"
+
+ }
+ .txt-2{
+ 	position: absolute;
+ 	top: 380px;
+ 	left: 200px;
+ 	font-family: "Calibri"
+ }
+ .txt-3{
+ 	position: absolute;
+ 	top: 580px;
+ 	left: 200px;
+ 	font-family: "Calibri"
+ }
+ .txt-4{
+ 	position: absolute;
+ 	top: 780px;
+ 	left: 200px;
+ 	font-family: "Calibri"
+ }
+ .btn{
+ 	padding: 5px 20px;
+	display: inline-flex;
+	color: #2390CE;
+	border-style: solid;
+	border-width: 1px;
+	background-color: white;
+	font-weight: bold;
+	font-family: "Arial";
+	border-radius: 5px;
+	margin-left: 800px;
+	position: absolute;
+	top: 210px;
+ }
+ .btn:hover{
+ 	border-color:  #11cfff;
+ 	color: white;
+ 	background-color: #11cfff;
+ }
+ .btn-2{
+ 	padding: 5px 20px;
+	display: inline-flex;
+	color: #2390CE;
+	border-style: solid;
+	border-width: 1px;
+	background-color: white;
+	font-weight: bold;
+	font-family: "Arial";
+	border-radius: 5px;
+	margin-left: 800px;
+	position: absolute;
+	top: 430px;
+ }
+ .btn-2:hover{
+ 	border-color:  #11cfff;
+ 	color: white;
+ 	background-color: #11cfff;
+ }
+ .btn-3{
+ 	padding: 5px 20px;
+	display: inline-flex;
+	color: #2390CE;
+	border-style: solid;
+	border-width: 1px;
+	background-color: white;
+	font-weight: bold;
+	font-family: "Arial";
+	border-radius: 5px;
+	margin-left: 800px;
+	position: absolute;
+	top: 630px;
+ }
+ .btn-3:hover{
+ 	border-color:  #11cfff;
+ 	color: white;
+ 	background-color: #11cfff;
+ }
+  .btn-4{
+ 	padding: 5px 20px;
+	display: inline-flex;
+	color: #2390CE;
+	border-style: solid;
+	border-width: 1px;
+	background-color: white;
+	font-weight: bold;
+	font-family: "Arial";
+	border-radius: 5px;
+	margin-left: 800px;
+	position: absolute;
+	top: 830px;
+ }
+ .btn-4:hover{
+ 	border-color:  #11cfff;
+ 	color: white;
+ 	background-color: #11cfff;
+ }
+  .txt-5{
+  	width: 60%;
+ 	position: absolute;
+ 	top: 210px;
+ 	left: 200px;
+ 	font-family: "Calibri"
+ }
+   .txt-6{
+   	width: 60%;
+ 	position: absolute;
+ 	top: 415px;
+ 	left: 200px;
+ 	font-family: "Calibri"
+ }
+   .txt-7{
+   	width: 60%;
+ 	position: absolute;
+ 	top: 620px;
+ 	left: 200px;
+ 	font-family: "Calibri"
+ }
+   .txt-8{
+   	width: 60%;
+ 	position: absolute;
+ 	top: 825px;
+ 	left: 200px;
+ 	font-family: "Calibri"
+ }

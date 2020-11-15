@@ -8,6 +8,25 @@ body{
 	padding: 0;
 	background-color: white;
 }
+.estilo-4{
+	position: absolute;
+	top:8px;
+	color: white;
+	right: 70px;
+	width: 30px;
+	left: 940px;
+}
+.estilo-4:hover{
+	color: blue;
+}
+.carro{
+	position: absolute;
+	top: 5px;
+	left: 1195px;
+}
+#cr{
+	width: 60px;
+}
 .opciones{
 	margin-bottom: 50px;
 	display: inline-flex;
@@ -70,7 +89,7 @@ body{
 .insta{
 	position: absolute;
 	top: 5px;
-	right: 5%;
+	right: 6%;
 }
 #fm{
 	width: 30px;
