@@ -71,6 +71,7 @@ function inicio(){
 	var mailstorage=localStorage.getItem("emailuser");
 	var pass= document.getElementById('contraseña').value;
 	var passstorage=localStorage.getItem("contraseñauser");
+	var en=0;
 	if(mail==mailstorage){
 		if(pass==passstorage)
 		{
@@ -81,7 +82,10 @@ function inicio(){
 			alert("Contraseña incorrecta")
 		}
 	}else{
-		alert("No se encontro usuario")
+		ent++;
+		if(en>1){
+			alert("No se encontro usuario");
+		}
 	}
 }
 //productos

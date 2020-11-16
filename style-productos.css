@@ -11,10 +11,9 @@ body{
 .estilo-4{
 	position: absolute;
 	top:8px;
-	color: black;
-	right: 70px;
+	color: white;
 	width: 30px;
-	left: 940px;
+	left: 73%;
 }
 .estilo-4:hover{
 	color: blue;
@@ -22,7 +21,7 @@ body{
 .carro{
 	position: absolute;
 	top: 5px;
-	left: 1195px;
+	left: 95%;
 }
 #cr{
 	width: 60px;
@@ -79,7 +78,7 @@ body{
 	padding-top: 15px;
 	width: 30px;
 	margin-top: -13px;
-	padding-left: 150px;
+	padding-left: 20%;
 }
 .face{
 	position: absolute;
@@ -163,9 +162,10 @@ body{
  	width: 100%;
  	text-align: center;
  }
- .footer{
+.footer{
  	width: 100%;
- 	bottom: 0;
+ 	position: absolute;
+ 	bottom: -80%;
  	color: white;
  	text-align: center;
  	height: 40px;
@@ -259,7 +259,7 @@ body{
 	font-weight: bold;
 	font-family: "Arial";
 	border-radius: 5px;
-	margin-left: 800px;
+	margin-left: 65%;
 	position: absolute;
 	top: 210px;
  }
@@ -278,7 +278,7 @@ body{
 	font-weight: bold;
 	font-family: "Arial";
 	border-radius: 5px;
-	margin-left: 800px;
+	margin-left: 65%;
 	position: absolute;
 	top: 430px;
  }
@@ -297,7 +297,7 @@ body{
 	font-weight: bold;
 	font-family: "Arial";
 	border-radius: 5px;
-	margin-left: 800px;
+	margin-left: 65%;
 	position: absolute;
 	top: 630px;
  }
@@ -316,7 +316,7 @@ body{
 	font-weight: bold;
 	font-family: "Arial";
 	border-radius: 5px;
-	margin-left: 800px;
+	margin-left: 65%;
 	position: absolute;
 	top: 830px;
  }

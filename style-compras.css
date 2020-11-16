@@ -12,9 +12,8 @@ body{
 	position: absolute;
 	top:8px;
 	color: white;
-	right: 70px;
 	width: 30px;
-	left: 940px;
+	left: 73%;
 }
 .estilo-4:hover{
 	color: blue;
@@ -22,7 +21,7 @@ body{
 .carro{
 	position: absolute;
 	top: 5px;
-	left: 1195px;
+	left: 95%;
 }
 #cr{
 	width: 60px;
@@ -79,7 +78,7 @@ body{
 	padding-top: 15px;
 	width: 30px;
 	margin-top: -13px;
-	padding-left: 150px;
+	padding-left: 20%;
 }
 .face{
 	position: absolute;
@@ -146,7 +145,7 @@ body{
  .btn{
  	padding: 5px 20px;
 	position: absolute;
-	bottom: -100px;
+	bottom: -15%;
 	left: 45%;
 	color: white;
 	background-color: #51a5ff;
@@ -167,7 +166,7 @@ body{
  .footer{
  	width: 100%;
  	position: absolute;
- 	top: 700px;
+ 	bottom: -25%;
  	color: white;
  	text-align: center;
  	height: 40px;
@@ -191,45 +190,66 @@ body{
 	background: #8dc4ff80;
 	border-radius: 10px;
 }
+.uno{
+	position: absolute;
+	top:20.8%;
+	left: 30%;
+}
+.dos{
+	position: absolute;
+	top:20.8%;
+	left: 50%;
+}
+.tres{
+	position: absolute;
+	top:65%;
+	left: 30%;
+}
+.cuatro{
+	position: absolute;
+	top: 65%;
+	left: 50%;
+}
 .cuadro-1{
 	position: absolute;
-	top:120px;
-	padding-left: 5px;
+	top:20.8%;
+	padding-left: .5%;
 	padding-right: 245px;
 	padding-bottom: 250px;
-	left: 379px;
+	left: 30%;
 	background: #00000080;
 }
 .cuadro-2{
 	position: absolute;
-	top:120px;
-	padding-left: 5px;
+	top:20.8%;
+	padding-left: .5%;
 	padding-right: 245px;
 	padding-bottom: 250px;
-	left: 632px;
+	left: 50%;
 	background: #00000080;
 }
 .cuadro-3{
 	position: absolute;
-	top:374px;
-	padding-left: 5px;
+	top:65%;
+	padding-left: .5%;
 	padding-right: 245px;
 	padding-bottom: 250px;
-	left: 379px;
+	left: 30%;
 	background: #00000080;
 }
 .cuadro-4{
 	position: absolute;
-	top:374px;
-	padding-left: 5px;
+	top:65%;
+	padding-left: .5%;
 	padding-right: 245px;
 	padding-bottom: 250px;
-	left: 632px;
+	left: 50%;
 	background: #00000080;
 }
 .label{
 	position: absolute;
-	top: 45px;
-	left: 29%;
+	top: 7%;
+	left: 30%;
+	text-align: center;
 }
 
