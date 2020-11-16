@@ -189,6 +189,53 @@ body{
 	padding: 0;
 	background-color: white;
 }
+.estilo-1-2{
+	position: absolute;
+	margin-top: 2%;
+	left: 30%;
+	color: white;
+	margin-right: 1%;
+	margin-left: -5%;
+}
+
+.estilo-4{
+	position: absolute;
+	top:50px;
+	color: white;
+	width: 30px;
+	left: 65%;
+}
+.estilo-2{
+	display: inline-block;
+	margin: auto;
+	padding-left: 100%;
+	color: black;
+	padding-top: 15px;
+	margin-top: -0.2px;
+}
+.header-2{
+	display: inline-block;
+	color: black;
+	font-size: 35px;
+	margin-right: 2%;
+	margin-top: 5px;
+	text-align: left;
+}
+.estilo-1{
+	position: absolute;
+	margin-top: 2%;
+	color: white;
+	margin-right: 800%;
+	margin-left: -33%;
+	width: 30px;
+}
+ #titulo{
+ 	position: absolute;
+	left: 35%;
+	top:0;
+	margin-right: 100px;
+ 	width: 350px;
+ }
 .opciones{
 	margin-bottom: 50px;
 	display: inline-block;
@@ -211,38 +258,7 @@ body{
 	text-align: right;
 
 }
-.estilo-1{
-	position: absolute;
-	margin-top: 2%;
-	color: white;
-	margin-right: 800%;
-	margin-left: -23%;
-	width: 30px;
-}
-.estilo-1-2{
-	position: absolute;
-	margin-top: 2%;
-	left: 40%;
-	color: white;
-	margin-right: 1%;
-	margin-left: -5%;
-}
-.header-2{
-	display: inline-block;
-	color: black;
-	font-size: 35px;
-	margin-right: 2%;
-	margin-top: 5px;
-	text-align: left;
-}
-.estilo-2{
-	display: inline-block;
-	margin: auto;
-	padding-left: 600px;
-	color: black;
-	padding-top: 15px;
-	margin-top: -0.2px;
-}
+
 .face{
 	position: absolute;
 	top: 2%;
@@ -355,13 +371,7 @@ body{
 	background-color: #1c89ff80;
 	
 }
-#titulo{
- 	position: absolute;
-	left: 38%;
-	top:0;
-	margin-right: 100px;
- 	width: 350px;
- }
+
 }
 
  

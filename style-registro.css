@@ -348,4 +348,26 @@ body{
  }
 }
 
- 
+  /*PARA MOVIL*/
+ @media only screen and (max-width : 1000px){ 
+ #nombre{
+ 	height: 35px;
+ }
+#apellido{
+ 	height: 35px;
+ }
+ .a{
+ 	width: 90%;
+ 	padding-top: 5%;
+ 	margin-left: 5%;
+ 	margin-right: 5%;
+ 	height: 70%;
+ 	background-color: #e0efff80;
+ 	border-radius: 15px;
+ }
+ .registrate{
+ 	position: absolute;
+ 	top: 5%;
+ 	left: 45%;
+ }
+ }

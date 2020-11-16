@@ -252,4 +252,263 @@ body{
 	left: 30%;
 	text-align: center;
 }
+ @media only screen and (max-width : 1000px){ 
+a{
+	text-decoration: none;
+}
+body{
+	margin: 0;
+	padding: 0;
+	background-color: white;
+}
+
+
+.opciones{
+	margin-bottom: 50px;
+	display: inline-block;
+	height: 100px;
+	background-color: #1c89ff80;
+
+}
+.titulo{
+	right: 15%;
+	width: 100%;
+	background-color: red;
+	margin-bottom: -55px;
+}
+.header-1{
+	width: 100%;
+	color: black;
+	margin-top: 3%;
+	font-size: 35px;
+	margin-left: 22%;
+	text-align: right;
+
+}
+.estilo-1{
+	position: absolute;
+	margin-top: 2%;
+	color: white;
+	margin-right: 800%;
+	margin-left: -33%;
+	width: 30px;
+}
+.estilo-1-2{
+	position: absolute;
+	margin-top: 2%;
+	left: 30%;
+	color: white;
+	margin-right: 1%;
+	margin-left: -5%;
+}
+.header-2{
+	display: inline-block;
+	color: black;
+	font-size: 35px;
+	margin-right: 2%;
+	margin-top: 5px;
+	text-align: left;
+}
+.estilo-4{
+	position: absolute;
+	top:50px;
+	color: white;
+	width: 30px;
+	left: 65%;
+}
+.estilo-2{
+	display: inline-block;
+	margin: auto;
+	padding-left: 100%;
+	color: white;
+	padding-top: 15px;
+	margin-top: -0.2px;
+}
+.face{
+	position: absolute;
+	top: 2%;
+	right: 10%;
+}
+.insta{
+	position: absolute;
+	top: 2%;
+	right: 5%;
+}
+#fm{
+	position: absolute;
+	width: 55px;
+	right: 20px;
+	bottom: -45px;
+}
+#im{
+	position: absolute;
+	width: 55px;
+	left: -45px;
+	bottom: -45px;
+}
+
+.logo{
+	display: inline-block;
+	margin-right: 100%;
+	position: absolute;
+	top: 5px;
+	left: 5%;
+}
+.contenedor{
+	width: 100%;
+}
+.info{
+	border-style: solid;
+	border-width: 1px;
+	border-color: #8DC4FF;
+	border-radius: 15px;
+	display: inline-grid;
+	width: 50%;
+	height: 270px;
+	font-size: 18px;
+	font-family: "Arial";
+	margin-right: 15px;
+	background-color:#8DC4FF;
+	color: white;
+	box-shadow: 2px 2px 10px #666;
+ }
+
+ .info-2{
+ 	border-style: solid;
+ 	border-width: 1px;
+ 	border-color: #8DC4FF;
+ 	border-radius: 15px;
+ 	display: inline-grid;
+	width: 45%;
+	height: 180px;
+	font-size: 18px;
+	font-family: "Arial";
+	background-color:#8DC4FF;
+	color: white;
+	box-shadow: 2px 2px 10px #666;
+ }
+ .vivencias{
+ 	width: 100%;
+ 	display: block;
+ }
+ .imagen{
+ 	width: 500px;
+ 	margin-left: 25%;
+ 	margin-right: 25%;
+ 	margin-bottom: 5%;
+ 	display: block;
+ }
+ .estilo-3{
+ 	text-align: center;
+ 	font-weight: bold;
+ 	font-family: "Calibri";
+ 	font-size: 40px;
+ }
+.footer{
+	position: absolute;
+ 	width: 100%;
+ 	color: white;
+ 	text-align: center;
+ 	height: 40px;
+ 	padding-top: 15px;
+ 	font-family: "Calibri";
+ 	font-weight: bold;
+	background-color: #1c89ff80;
+	bottom:-90%;
+ }
+ #tam{
+ 	box-shadow: 2px 2px 10px #666;
+ 	margin-left: 18%;
+ 	width: 650px;
+ }
+ #titulo{
+ 	position: absolute;
+	left: 35%;
+	top:0;
+	margin-right: 100px;
+ 	width: 350px;
+ }
+ .uno{
+	position: absolute;
+	top:20.8%;
+	left: 20%;
+}
+.dos{
+	position: absolute;
+	top:20.8%;
+	left: 55%;
+}
+.tres{
+	position: absolute;
+	top:40%;
+	left: 20%;
+}
+.cuatro{
+	position: absolute;
+	top: 40%;
+	left: 55%;
+}
+.cuadro-1{
+	position: absolute;
+	top:20.8%;
+	padding-left: .5%;
+	padding-right: 245px;
+	padding-bottom: 250px;
+	left: 20%;
+	background: #00000080;
+}
+.cuadro-2{
+	position: absolute;
+	top:20.8%;
+	padding-left: .5%;
+	padding-right: 245px;
+	padding-bottom: 250px;
+	left: 55%;
+	background: #00000080;
+}
+.cuadro-3{
+	position: absolute;
+	top:40%;
+	padding-left: .5%;
+	padding-right: 245px;
+	padding-bottom: 250px;
+	left: 20%;
+	background: #00000080;
+}
+.cuadro-4{
+	position: absolute;
+	top:40%;
+	padding-left: .5%;
+	padding-right: 245px;
+	padding-bottom: 250px;
+	left: 55%;
+	background: #00000080;
+}
+ .btn{
+	left: 38%;
+	color: white;
+	background-color: #51a5ff;
+	font-weight: bold;
+	font-family: "Arial";
+	border-radius: 5px;
+	font-size: 50px;
+	padding-bottom: 1px;
+	position: absolute;
+	top: 55%;
+	bottom: 680px;
+ }
+  .footer{
+ 	position: fixed;
+ 	bottom: 0;
+ 	width: 100%;
+ 	color: white;
+ 	text-align: center;
+ 	height: 40px;
+ 	padding-top: 15px;
+ 	font-family: "Calibri";
+ 	font-weight: bold;
+	background-color: #1c89ff80;
+	
+}
+}
 
