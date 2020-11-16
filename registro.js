@@ -45,8 +45,8 @@ function guardar (){
 		localStorage.setItem("nombreuser",c);
 		localStorage.setItem("apellidouser",d);
 		alert("Registrado con exito!");
+		window.close();
 		window.open("./login.html");
-		window.close("./registro.html");
 	}else{
 		alert("Intentalo otra vez campos sin llenar");
 		localStorage.setItem("emailuser","");
@@ -243,7 +243,21 @@ if(localStorage.getItem("sombrero")<4){
 let comprar = document.getElementById("comprar");
 if(comprar){
 	comprar.addEventListener("click",function() {
+	if(cont!="")
+	{
 	alert("Haz comprado"+cont);
+	localStorage.removeItem("lente");
+	localStorage.removeItem("playera");
+	localStorage.removeItem("sombrero");
+	localStorage.removeItem("taza");
+	cu1.style.background="#00000080";
+	cu2.style.background="#00000080";
+	cu3.style.background="#00000080";
+	cu4.style.background="#00000080";	
+}else{
+	alert("No tienes ningun producto en carrito")
+}
+	
 });
 
 }
