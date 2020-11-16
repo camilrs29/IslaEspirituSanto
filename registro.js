@@ -221,25 +221,33 @@ let cu4 = document.getElementById("cuatro");
 var cont="";
 
 if(localStorage.getItem('lente')<4){
-	cu1.style.background="none";
+	if(cu1){
+		cu1.style.background="none";
+	}
 	var i=4;
 	i=i-localStorage.getItem('lente');
 	cont+=" lente"+"("+i+")";
 }
 if(localStorage.getItem('playera')<3){
-	cu2.style.background="none";
+	if(cu2){
+		cu2.style.background="none";
+	}
 	var i=3;
 	i=i-localStorage.getItem('playera');
 	cont+=" playera"+"("+i+")";
 }
 if(localStorage.getItem('taza')<2){
+	if(cu4){
 	cu4.style.background="none";
+	}
 	var i=2;
 	i=i-localStorage.getItem('taza');
 	cont+=" taza"+"("+i+")";
 }
 if(localStorage.getItem("sombrero")<4){
+	if(cu3){
 	cu3.style.background="none";
+	}
 	var i=4;
 	i=i-localStorage.getItem('sombrero');
 	cont+=" sombrero"+"("+i+")";
