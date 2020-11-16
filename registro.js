@@ -77,7 +77,7 @@ function inicio(){
 		{
 			alert("Bievenid@ "+localStorage.getItem("nombreuser"))
 			window.open("./index.html");
-			window.close("./login.html");
+			window.close("login.html");
 		}else{
 			alert("Contraseña incorrecta")
 		}
@@ -273,3 +273,7 @@ if(comprar){
 });
 
 }
+
+
+
+
