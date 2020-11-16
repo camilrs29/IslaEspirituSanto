@@ -448,7 +448,7 @@ ul.slider li:target {
  	font-size: 40px;
  }
 .footer{
-	position: absolute;
+	display: inline-block;
  	width: 100%;
  	color: white;
  	text-align: center;
@@ -457,7 +457,6 @@ ul.slider li:target {
  	font-family: "Calibri";
  	font-weight: bold;
 	background-color: #1c89ff80;
-	bottom:-90%;
  }
  #tam{
  	box-shadow: 2px 2px 10px #666;

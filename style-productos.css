@@ -660,7 +660,6 @@ body{
  	border-color: #8DC4FF;
  	border-width: 1px;
  	background: #b3d5f980;
- 	margin-bottom: 20px;
  	margin-top: 8%;
  	position: absolute;
  	top: 52%;
@@ -672,7 +671,6 @@ body{
  	border-color: #8DC4FF;
  	border-width: 1px;
  	background: #d6ecff80;
- 	margin-bottom: 20px;
  	margin-top: 8%;
  	position: absolute;
  	top: 37%;
@@ -684,7 +682,6 @@ body{
  	border-color: #8DC4FF;
  	border-width: 1px;
  	background: #b3d5f980;
- 	margin-bottom: 20px;
  	position: absolute;
  	margin-top: 8%;
  	top:22%;
@@ -698,6 +695,5 @@ body{
  	border-color: #8DC4FF;
  	border-width: 1px;
  	background: #d6ecff80;
- 	margin-bottom: 20px;
  }
 }
