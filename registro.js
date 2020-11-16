@@ -45,7 +45,7 @@ function guardar (){
 		localStorage.setItem("nombreuser",c);
 		localStorage.setItem("apellidouser",d);
 		alert("Registrado con exito!");
-		window.close();
+		window.close("registro.html");
 		window.open("./login.html");
 	}else{
 		alert("Intentalo otra vez campos sin llenar");
