@@ -262,7 +262,12 @@ body{
 	background-color: white;
 }
 
-
+.label{
+	position: absolute;
+	top: 7%;
+	left: 26%;
+	text-align: center;
+}
 .opciones{
 	margin-bottom: 50px;
 	display: inline-block;
@@ -495,7 +500,7 @@ body{
 	padding-bottom: 1px;
 	position: absolute;
 	top: 55%;
-	bottom: 680px;
+	bottom: 39%;
  }
   .footer{
  	position: fixed;
